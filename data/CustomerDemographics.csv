@@ -1,0 +1,11 @@
+customer_id,region,age_group,purchase_frequency
+1,"North America",18-24,Weekly
+2,Europe,25-34,Monthly
+3,Asia,35-44,Quarterly
+4,"South America",45-54,Annually
+5,"North America",55-64,Weekly
+6,Europe,18-24,Monthly
+7,Asia,25-34,Quarterly
+8,"South America",35-44,Annually
+9,"North America",45-54,Weekly
+10,Europe,55-64,Monthly

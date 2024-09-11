@@ -14,14 +14,14 @@ The project utilizes the following tables:
 5]Regions: Includes information about regions and countries.
 
 #Key Tasks: 
-Data Insertion: Populate the tables with sample data using INSERT statements to reflect various iPhone models, their pricing, features, and customer demographics.
-SQL Queries: Perform various SQL queries to analyze the data, including:
-Retrieving pricing trends for different iPhone models.
-Comparing features across different models.
-Analyzing customer demographics and their purchasing behavior.
-Understanding regional distribution and its impact on sales.
+1]Data Insertion: Populate the tables with sample data using INSERT statements to reflect various iPhone models, their pricing, features, and customer demographics.
+2]SQL Queries: Perform various SQL queries to analyze the data, including:
+i>Retrieving pricing trends for different iPhone models.
+ii>Comparing features across different models.
+iii>Analyzing customer demographics and their purchasing behavior.
+iv>Understanding regional distribution and its impact on sales.
 
 #Skills Demonstrated: 
-Data Modeling: Designing tables with appropriate constraints and relationships.
-SQL Querying: Writing complex SQL queries to extract meaningful insights from the data.
-Data Analysis: Analyzing trends and patterns in pricing, features, and customer demographics.
+1]Data Modeling: Designing tables with appropriate constraints and relationships.
+2]SQL Querying: Writing complex SQL queries to extract meaningful insights from the data.
+3]Data Analysis: Analyzing trends and patterns in pricing, features, and customer demographics.

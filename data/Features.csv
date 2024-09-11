@@ -1,0 +1,11 @@
+feature_id,model_id,feature_name,feature_value
+1,1,"Screen Size","6.1 inches"
+2,1,Storage,"128 GB"
+3,1,"Battery Life","15 hours"
+4,2,"Screen Size","6.7 inches"
+5,2,Storage,"256 GB"
+6,2,"Battery Life","20 hours"
+7,3,"Screen Size","5.8 inches"
+8,3,Storage,"64 GB"
+9,3,"Battery Life","12 hours"
+10,4,"Screen Size","6.5 inches"

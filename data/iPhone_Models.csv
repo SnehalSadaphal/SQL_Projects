@@ -1,0 +1,11 @@
+model_id,model_name,release_date,screen_size,battery_life,camera_specs,storage_options
+1,"iPhone X",2017-11-03,5.8,2716,"12MP dual","64GB, 256GB"
+2,"iPhone 8",2017-09-22,4.7,1821,12MP,"64GB, 128GB"
+3,"iPhone 8 Plus",2017-09-22,5.5,2691,"12MP dual","64GB, 128GB, 256GB"
+4,"iPhone 11",2019-09-20,6.1,3110,"12MP dual","64GB, 128GB, 256GB"
+5,"iPhone 11 Pro",2019-09-20,5.8,3046,"12MP triple","64GB, 256GB, 512GB"
+6,"iPhone 12",2020-10-23,6.1,2815,"12MP dual","64GB, 128GB, 256GB"
+7,"iPhone 12 Mini",2020-11-13,5.4,2227,"12MP dual","64GB, 128GB, 256GB"
+8,"iPhone 12 Pro",2020-10-23,6.1,2815,"12MP triple","128GB, 256GB, 512GB"
+9,"iPhone 13",2021-09-24,6.1,3240,"12MP dual","128GB, 256GB, 512GB"
+10,"iPhone 13 Pro",2021-09-24,6.1,3095,"12MP triple","128GB, 256GB, 512GB"
